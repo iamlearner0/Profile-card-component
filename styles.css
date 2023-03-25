@@ -41,7 +41,7 @@ body {
   background-color: #fff;
   width: 70%;
   max-width: 370px;
-  margin: 6rem auto 3rem;
+  margin: 9rem auto 2rem;
   border-radius: 1rem;
 }
 
@@ -108,10 +108,10 @@ body {
   color: hsl(0, 0%, 59%);
 }
 
-.attribution {
+footer {
   font-size: 0.9rem;
   text-align: center;
 }
-.attribution a {
+footer a {
   color: hsl(228, 45%, 44%);
 }
